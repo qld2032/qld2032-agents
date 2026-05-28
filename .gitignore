@@ -1,0 +1,11 @@
+secrets/
+*.key
+*-key.json
+*-key.txt
+.env
+__pycache__/
+*.py[cod]
+venv/
+*.bak*
+data/
+recaps/
