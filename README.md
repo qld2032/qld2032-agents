@@ -133,4 +133,4 @@ The agent architecture is open; the data and the niches are not.
 
 ## License
 
-Apache License 2.0 — see [LICENSE](./LICENSE). © 2026 Christopher Savins.
+Apache License 2.0 — see [LICENSE](./LICENSE). © 2026 Qld2032
